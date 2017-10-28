@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<opencv_storage>
+	<input_video>data/table.mp4</input_video>
+	<output_video>out/example_2_table.mkv</output_video>
+	<calibration_file>data/SamsungNote3_720.xml</calibration_file>
+</opencv_storage>
